@@ -5630,9 +5630,9 @@ a:hover {
     justify-content: center;
     width: 100px;
     height: 100px;
-    background-color: #a94442;
+    /* background-color: #a94442; */
     border: solid 1px #ffffff;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     margin: auto; }
   .uni-shortcode-icon-box-1-default .item-caption {
     padding: 70px 40px 40px 40px; }
